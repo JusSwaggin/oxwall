@@ -4,7 +4,7 @@ define('OW_DIR_USERFILES', OW_DIR_ROOT.'ow_userfiles'.DS);
 define('OW_DIR_STATIC', OW_DIR_ROOT.'ow_static'.DS);
 define('OW_DIR_PLUGINFILES', OW_DIR_ROOT.'ow_pluginfiles/');
  
-define('OW_DEBUG_MODE', false);
+define('OW_DEBUG_MODE', True);
 define('OW_DEV_MODE', false);
 define('OW_INSTALL_PLUGINS', false);
 define('OW_PASSWORD_SALT', 'oxwall_salt_SK750');
